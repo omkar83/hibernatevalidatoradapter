@@ -1,0 +1,1 @@
+Hibernate Validator 3.1 offers an annotation based validation of domain objects or form beans. This is an integration project to provide the functionality in Spring Framework and Spring MVC seamlessly.
